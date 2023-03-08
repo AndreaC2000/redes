@@ -18,3 +18,47 @@ Preguntas de lectura: Capítulo 1
 -Jugar Videojuegos
 -Obtener información actual por medio de las publicaciones, noticieros, revistas.
 -Consumo de contenido audiovisual por medio de distintas plataformas.
+
+4. Describir los factores que afectan la calidad de las comunicaciones.
+Existen dos factores que afectan el éxito de la comunicación, estos son los factores: externos e internos
+Factores externos:
+Calidad de la ruta entre el emisor y receptor.
+Número de veces que el mensaje cambia la forma.
+Número de veces que el mensaje es redireccionado o redirigido.
+Cantidad de mensajes adicionales que se transmiten simultáneamente en la red de comunicación.
+Tiempo asignado para una comunicación exitosa.
+Factores internos:
+Tamaño del mensaje.
+Complejidad del mensaje.
+Importancia del mensaje.
+
+6.Responda brevemente:
+ ¿Qué son los datos? 
+Los datos son información del usuario.
+ ¿Qué es una red de datos? 
+Una red de datos es aquella que permite el intercambio de datos entre dispositivos conectados a la red. 
+ ¿Qué es una red convergente?
+Una red convergente es aquella que permite múltiples servicios a través del mismo canal.
+
+8.Investigar qué son las redes orientadas y no orientadas a la conexión.
+Redes orientadas a conexión: 
+Son las que permiten el uso de un camino específico que se establece durante una conexión,  el manejo de datos  orientados a conexión implica el paso de datos mediante una conexión permanente.
+Posee tres fases:
+Establecer conexión:  Determina un camino entre el origen y los sistemas destinatarios. Los recursos de la red son reservados en ese momento para asegurar la calidad constante del servicio, es decir el flujo constante de datos.
+Transferencia de datos:  se transmiten secuencialmente sobre el camino que se ha establecido, los datos llegan al sistema destinatario en el orden como fueron  enviados.
+Fin de conexión: Cuando  la conexión establecida no se necesita más se termina o se cierra la conexión.
+Desventajas: 
+Reserva estática de recursos de la red.
+Reserva estática del camino de conexión.
+Ventajas:
+Útiles transmitir datos que no son tolerantes a retardos.
+Secuenciamiento de paquetes.
+Redes no orientadas a conexión :
+No se predetermina el camino a seguir por los paquetes y no garantiza el secuenciamiento de paquetes, tampoco reservan recursos, cada paquete es transmitido independientemente por el sistema de origen y manejado independientemente por los dispositivos intermedios de la red. 
+ventajas:
+útil para transmitir datos de aplicaciones que toleran retardo y secuenciamiento.
+camino dinámico. 
+ancho de banda dinámico. 
+
+10.¿Por qué importa la calidad del servicio en una red de datos? 
+La calidad del servicio es vital dentro de una red de datos, porque puede tratarse de datos muy sensibles, donde el retardo en la red implique daños irreversibles, como lo puede ser una llamada a los bomberos, una llamada de emergencia donde una respuesta tardía deje como consecuencia una víctima fatal.  
