@@ -36,8 +36,14 @@ que el mensaje llegue al destino de la manera más rápida y eficaz.
 
 7. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad.
 Mostrar sus respectivos ejemplos. 
-Tolerante a fallas: Es la capacidad con la que la red confronta las posibles fallas ya sea al hardware o al software y se logra recuperar rápidamente de ellas, si un enlace falla, se logra redireccionar hacia otra de forma rápida siendo esto transparente para el usuario.
+Tolerante a fallas: Es la capacidad con la que la red confronta las posibles fallas ya sea al hardware o al software y se logra recuperar rápidamente de ellas, 
+si un enlace falla, se logra redireccionar hacia otra de forma rápida siendo esto transparente para el usuario.
 Escalabilidad: Esta red cuenta con la capacidad de admitir  nuevos usuarios y aplicaciones sin afectar al servicio, ni el rendimiento de los usuarios actuales. 
 Calidad del servicio: La calidad es importante como las dos características mencionadas anteriormente, ya que se debe brindar una buena experiencia para el usuario, como en las transmisiones en vivo ya que se transmite simultáneamente audio y video, lo cual es más atractivo para el usuario.
 Seguridad: Al tratar información delicada de cada usuario se debe brindar protección, ya que se debe resguardar la privacidad de cada uno, ya que existen redes, empresariales, institucionales, gubernamentales por lo que se busca incorporar protocolos de seguridad.
 
+9. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
+
+La Calidad del servicio es aquella que busca brindar servicios seguros, garantizados, tolerante a fallos, escalables, con el fin de brindar el mejor servicio al usuario, independientemente de la cantidad de usuarios que estén usando ese servicio ya que debe administrar el tráfico de redes congestionado, 
+la información se encuentre protegida y que al momento de usarlo no cuente con un mal servicio de red. 
+Se deben utilizar mecanismos QoS para garantizar la calidad de servicio
