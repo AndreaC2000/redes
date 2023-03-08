@@ -1,0 +1,43 @@
+
+FECHA: 6/03/2023
+NOMBRE: ANDREA CUATINDIOY ORTIZ
+CÓDIGO SIMCA:104618021757
+
+
+Preguntas de lectura: Capítulo 1
+1. Describir el efecto que tienen las redes en nuestra vida cotidiana.
+Las redes son fundamentales para nuestra vida cotidiana,  dado que en la actualidad se emplean incluso para tomar decisiones frente a compras,
+ofrecen entretenimiento, ventas, uso empresarial, chat, video llamadas, nos conectan con el mundo en sí, son indispensables como lo indica el capítulo uno 
+“indispensables como el aire”, un ejemplo de esto es cuando se cae Whatsapp y Facebook las pérdidas  millonarias que tienen.  
+
+3. Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado
+Facebook
+Whatsapp
+Twitter
+Instagram
+Meet
+Telegram
+Discord
+Skype
+Hangouts 
+Tiktok
+
+5. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
+Reglas: Protocolos que especifican cómo se envían los mensajes, cómo se dirigen o redirigen y la forma en que serán interpretados, en general 
+son reglas que permiten la comunicación entre el emisor y el receptor final. 
+Medios: Puede ser por una red por cable o una red inalámbrica por donde viajará nuestro mensaje.
+Mensajes: Se tienen diferentes tipos de mensajes entre ellos podemos encontrar, texto, imágenes,  videos, voz.
+Todo mensaje será convertido en bits, señales digitales que serán codificadas en binario para viajar por la red y decodificadas  cuando lleguen a su destino final.
+Dispositivos finales e intermedios: Son utilizados para conectarse a un servicio, con el fin de acceder se utilizan dispositivos,
+el más común es el computador el cual puede enviar y recibir mensajes por una red, pero existen otros dispositivos como: el servidor, teléfono, camaras, 
+impresoras, consolas de videojuegos, entre otros.
+Para lograr tener una comunicación se utilizan routes tanto alámbricos como inalámbricos, los cuales unen una o dos redes y así asegurar
+que el mensaje llegue al destino de la manera más rápida y eficaz.
+
+7. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad.
+Mostrar sus respectivos ejemplos. 
+Tolerante a fallas: Es la capacidad con la que la red confronta las posibles fallas ya sea al hardware o al software y se logra recuperar rápidamente de ellas, si un enlace falla, se logra redireccionar hacia otra de forma rápida siendo esto transparente para el usuario.
+Escalabilidad: Esta red cuenta con la capacidad de admitir  nuevos usuarios y aplicaciones sin afectar al servicio, ni el rendimiento de los usuarios actuales. 
+Calidad del servicio: La calidad es importante como las dos características mencionadas anteriormente, ya que se debe brindar una buena experiencia para el usuario, como en las transmisiones en vivo ya que se transmite simultáneamente audio y video, lo cual es más atractivo para el usuario.
+Seguridad: Al tratar información delicada de cada usuario se debe brindar protección, ya que se debe resguardar la privacidad de cada uno, ya que existen redes, empresariales, institucionales, gubernamentales por lo que se busca incorporar protocolos de seguridad.
+
