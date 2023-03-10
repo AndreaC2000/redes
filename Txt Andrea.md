@@ -104,6 +104,7 @@ Segmento: PDU de la capa de transporte.
 
 
 
+
 Paquete: PDU de la capa de internetwork.
 
 
