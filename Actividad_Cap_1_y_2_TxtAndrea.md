@@ -117,3 +117,20 @@ Bits: PDU que se utiliza cuando se transmiten físicamente datos a través de un
 
 
 
+
+9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+Modelo TCP/IP: primer modelo de protocolo en capas para comunicaciones de internetwork, define cuatro categorías de funciones que deben tener lugar para que las comunicaciones sean exitosas, es común que al modelo de internet se le conozca como modelo TCP/IP.
+El modelo es un estándar abierto, una compañía no controla la definición del modelo, estas se explican en un foro público y se definen en conjunto de documentos disponibles al público.
+Aplicación: representa los datos para el usuario más el control de codificación y de diálogo.
+Transporte: admite la comunicación entre distintos dispositivos de distintas redes.
+Internet: Determina la mejor ruta a través de la red.
+Acceso a la red: Controla los dispositivos del hardware y los medios que forman la red.
+Modelo OSI: Diseñado para proporcionar un marco sobre el cual crear una suite de protocolos de sistemas abiertos, con la intención de que se utilizara para desarrollar una red internacional que no dependiera de sistemas propietarios.
+Este modelo contiene siete capas:
+7. Aplicación: proporciona los medios para la conectividad de extremo a extremo entre individuos de la red humana que usan redes de datos.
+6. Presentación: La capa de presentación proporciona una representación común de los datos transferidos entre los servicios de la capa de Aplicación.
+5. Sesión: La capa de sesión proporciona servicios a la capa de presentación para organizar su diálogo y administrar el intercambio de datos.
+4. Transporte: la capa de transporte define los servicios para segmentar, transferir y reensamblar los datos para las comunicaciones individuales entre dispositivos finales.
+3. Red: Proporciona servicios para intercambiar los datos individuales en la red entre dispositivos finales identificados.
+2. Enlaces de datos: los protocolos de la capa de enlace de datos describen los métodos para intercambiar tramas de datos entre dispositivos en un medio común.
+1. Física: los protocolos de la capa física describen los medios mecánicos, eléctricos, funcionales y de procedimiento para activar, mantener y desactivar conexiones físicas para la transmisión de bits hacia y desde un dispositivo de red. 
